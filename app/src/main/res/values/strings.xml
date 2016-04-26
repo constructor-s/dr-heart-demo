@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Dr Heart Demo</string>
+    <string name="demo_on">Demo on</string>
+    <string name="demo_off">Demo off</string>
+    <string name="manual_heart_rate_prompt">Manual heart rate reading:</string>
+    <string name="manual_heart_rate_hint">Enter HR</string>
+    <string name="demo_toggle_prompt">Manual mode</string>
+    <string name="increase">↑</string>
+    <string name="decrease">↓</string>
+    <string name="constant">Const</string>
+    <string name="lower_bound">Lower bound:</string>
+    <string name="higher_bound">Higher bound:</string>
+    <string name="lower_bound_hint">Low lim</string>
+    <string name="higher_bound_hint">High lim</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="pair">Pair</string>
+    <string name="chat">Chat</string>
 </resources>
